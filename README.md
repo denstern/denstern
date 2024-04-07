@@ -4,10 +4,6 @@ I'm working as Data Engineer (DE) preprocessing data for Data Science and Analyt
 
 Sometimes I write [Github Gists](https://gist.github.com/denstern)
 
-I'm also interested in the development of the blockchain industry, in particular The Open Network (TON):
-- [TON - The Open Network](https://github.com/ton-blockchain)
-- [Ton Community](https://github.com/ton-community)
-
 <!--
 **denstern/denstern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
